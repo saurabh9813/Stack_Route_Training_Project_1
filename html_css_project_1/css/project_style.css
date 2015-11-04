@@ -1,0 +1,176 @@
+p{
+  text-align: justify;
+}
+
+a:link{
+  color: black;
+  text-decoration: none;
+}
+
+a:visited{
+  color: darkcyan;
+}
+
+a:hover{
+  color: darkcyan;
+  text-decoration: underline;
+}
+
+a:active{
+  color: cyan;
+}
+#grid13{
+  margin-top: 38px;
+}
+#side_link{
+  height: 120px;
+}
+#header_section li{
+  display:inline;
+  margin: 0px 3px;
+
+}
+#side_link li{
+  display:inline;
+}
+
+#header_section{
+  background-color: none;
+}
+#header_section li{
+  padding: 15px;
+}
+
+
+#logo1{
+  background-color: rgb(26, 188, 156);
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  border: 2px solid #665544;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+
+}
+
+#side_link ul{
+  margin-top: 35px;
+  margin-right: 10px;
+  padding: 2px;
+}
+#tagline{
+  background-color: rgb(245, 245, 245);
+}
+
+#side_link{
+  background-color: lightyellow;
+}
+
+.bold_u{
+  text-decoration: underline;
+  text-decoration-style: double;
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+#help{
+  border: 1px solid #665544;
+  background-color: rgb(26, 188, 156);
+  font-size: 22px;
+  font-weight: 150;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: inherit;
+  color: rgb(255,255,255);
+}
+ #first_grid{
+   height: 500px;
+ }
+
+ .link1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+ }
+
+ .head2{
+   font-family: 'Asap', sans-serif;
+   font-size: 22px;
+   font-weight:bold;
+
+ }
+
+ .head1{
+   font-family: 'Asap', sans-serif;
+   font-size: 42px;
+   font-weight:bold;
+ }
+
+ .head3{
+   font-family: 'Sigmar One', cursive;
+   font-size: 25px;
+   font-weight:lighter;
+   margin-left: 10px;
+ }
+
+ .head4{
+   font-family: 'Raleway', sans-serif;
+   font-size: 18px;
+ }
+
+img{
+  height: 220px;
+  width: 330px;
+}
+
+.first_g{
+  height: 220px;
+  width: 320px;
+}
+
+.text12{
+  margin-left: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+#hero{
+  background-color:rgb(245, 245, 245);
+
+}
+img.hero2{
+  display: block;
+}
+
+.hero2{
+    width: 940px;
+    height: 300px;
+    display: block;
+
+}
+
+#hero h1{
+  text-align: center;
+  align-items: center;
+}
+
+#hero p{
+  text-align: center;
+}
+
+#footer{
+  background-color: rgb(245, 245, 245);
+}
+
+#copyright{
+  background-color: rgb(220, 220, 220);
+}
+
+.text1{
+  font-size: 12px;
+}
+
+#blog ul{
+  padding-left: 0px;
+}
